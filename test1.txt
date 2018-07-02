@@ -1,2 +1,6 @@
 first file in remote 
+<<<<<<< HEAD
 12121212
+=======
+second change in master
+>>>>>>> 106b3dd7817c10f7f58f1800533b77d96d3f6e06
